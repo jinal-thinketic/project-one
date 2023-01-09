@@ -1,0 +1,24 @@
+.changeColor{
+    height: 50px;
+    width: 50px;
+    margin: 4px;
+}
+
+.blue{
+    background-color: rgb(24, 24, 59);
+}
+.green{
+    background-color: rgb(26, 53, 26);
+}
+.yellow{
+    background-color: rgb(227, 227, 73);
+}
+.red{
+    background-color: rgb(198, 74, 74);
+}
+.white{
+    background-color:aliceblue;
+}
+.black{
+    background-color: rgb(40, 38, 38);
+}
